@@ -72,11 +72,3 @@ http://127.0.0.1:5000
 
 - `GET /api/daily-words?count=<number>`: Get daily words
 - `GET /api/random-words?count=<number>`: Get random words
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is open source and available under the MIT License. 
