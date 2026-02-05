@@ -9,7 +9,7 @@
 ## Setup and Installation
 ```bash
 git clone https://github.com/danieljeon1230/vocab.git
-cd vocabulary-learner
+cd vocab
 pip install flask requests
 ```
 
